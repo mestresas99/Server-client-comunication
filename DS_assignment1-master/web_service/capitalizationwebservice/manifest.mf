@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Extension-Name: My
+Implementation-Version: 1.1
+Main-Class: capitalizationwebservice.WebPublisher
+Class-path: jaxws-api-2.3.1.jar
